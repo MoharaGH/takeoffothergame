@@ -1,0 +1,28 @@
+body{
+ background:black
+   ;
+font-family: Helvetica;
+}
+
+
+
+h1{
+  font-family: Papyrus;
+  color: purple;
+}
+h2{
+  font-family: Papyrus;
+  color: green;
+}
+p{
+  color: purple;
+}
+h3{
+  color:green;
+  font-family:Papyrus;
+}
+
+a{
+border:3px solid green;
+ color: yellow;
+}
